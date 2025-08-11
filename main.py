@@ -1,1 +1,2 @@
-print("This is python script")
+scriptName = "Solana Sniper"
+print(f"This is python script about {scriptName}")
